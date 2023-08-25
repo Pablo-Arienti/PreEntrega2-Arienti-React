@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+ *{
+    font-family: "Tektur", cursive;
+ }
+ h1{
+    padding-top: 1.8rem;
+    text-decoration: none;
+    color: rgb(24, 53, 27);
+}
+h1:hover{
+    padding-top: 1.8rem;
+    text-decoration: none;
+    color: rgb(14, 255, 42);
+}
+a:link, a:visited, a:active{
+    text-decoration: none;
+}
+body{
+    background-image: url(https://images.alphacoders.com/116/1169862.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+header{
+    background-image: url(https://test-rus.marketingrus.com.ar/sites/default/files/2021-08/Header-In-Blue_0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: space-around;
+}
